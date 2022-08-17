@@ -1,0 +1,17 @@
+{
+	"productos": [{
+			"nombre": "barra pan 1/2 kg",
+			"imagen": "barra",
+			"precio": 1.50
+		}, {
+			"nombre": "bollo 1 Kg",
+			"imagen": "bollo",
+			"precio": 3.00
+		}, {
+			"nombre": "pasteles",
+			"imagen": "pastel",
+			"precio": 1.00
+		}
+
+	]
+}
